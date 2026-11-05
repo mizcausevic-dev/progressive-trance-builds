@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/progressive-trance-builds-simple-synth-preview.mp3",
+  "preview_sha256": "dc93e855151f8dd85630b605fe8936bf1e4be76acbddd0e30b4dd31dab0a14ec",
+  "source_midi_path": "midi/z3201-progressive-trance-builds-opening/z3201-progressive-trance-builds-opening-combined.mid",
+  "source_midi_sha256": "71bb904260aab98be31a65c2eeb3ee2bee6a02b987525f7f07fbfca13ddf5eb1",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z3201",
+    "start_seconds": 0,
+    "end_seconds": 55.652
+  },
+  "measurement": {
+    "sample_peak": 0.106122,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

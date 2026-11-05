@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:05.814337+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z3201-progressive-trance-builds-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "b5508e1668ee068b6986edc0a282494f1186e46c9f4145a57446d6337532e6ec",
+      "errors": []
+    },
+    {
+      "path": "midi/z3201-progressive-trance-builds-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "3639921e76787dd0916aa14c3fa6e19543ac4d78283d64172f6767d1e39a18ba",
+      "errors": []
+    },
+    {
+      "path": "midi/z3201-progressive-trance-builds-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3201-progressive-trance-builds-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "f511117061cd0ea387b0c63ac73444cbe17a5939e3ee817752a009b1dd7e67f7",
+      "errors": []
+    },
+    {
+      "path": "midi/z3201-progressive-trance-builds-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "98fe1e867a766c1e61c12cc6d989df071a2ee615af95344501c4e2c1884acd3e",
+      "errors": []
+    },
+    {
+      "path": "midi/z3201-progressive-trance-builds-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "d9d96743ea8e1552fac6cdadab050df9b446dd3981a2da8ba38880cca9b123b5",
+      "errors": []
+    },
+    {
+      "path": "midi/z3201-progressive-trance-builds-opening/z3201-progressive-trance-builds-opening-combined.mid",
+      "bytes": 6018,
+      "sha256": "71bb904260aab98be31a65c2eeb3ee2bee6a02b987525f7f07fbfca13ddf5eb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z3202-progressive-trance-builds-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "94989ad054d6c72204be6a9bfdd7af93095cd6e21e289f34bc03d7053bb6ee96",
+      "errors": []
+    },
+    {
+      "path": "midi/z3202-progressive-trance-builds-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "78f43c7a18ba90e69beef8e748efe70c2ad317463aa2a780aa17a1f3402a82da",
+      "errors": []
+    },
+    {
+      "path": "midi/z3202-progressive-trance-builds-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3202-progressive-trance-builds-variation/principal_motif.mid",
+      "bytes": 796,
+      "sha256": "33899ec47586b1c6cbff060ca5fad959ea20dde3f3b2aeb6f16de27f32e4832d",
+      "errors": []
+    },
+    {
+      "path": "midi/z3202-progressive-trance-builds-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "2a4deb4f47315c28010c2509a15c37047802e6b185344f50af212348aaa2b567",
+      "errors": []
+    },
+    {
+      "path": "midi/z3202-progressive-trance-builds-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9dbfccd8b97b241dccfa1b1512af9dafbe1fd816b9df1a8d34ec3dc0a9bc7907",
+      "errors": []
+    },
+    {
+      "path": "midi/z3202-progressive-trance-builds-variation/z3202-progressive-trance-builds-variation-combined.mid",
+      "bytes": 6017,
+      "sha256": "cecddf6fb4d558b190c362009641a9f22eb5ff77e799053965728fc79846a6f3",
+      "errors": []
+    },
+    {
+      "path": "midi/z3203-progressive-trance-builds-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "1e41d0828ca5d21d20343d4bf2c452ea0948a6ebbffd6f985984ba14b7226b8c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3203-progressive-trance-builds-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "791607f9df16ba5a475e72eafbb8e333734b808390dcd7180c7060b34372fdb5",
+      "errors": []
+    },
+    {
+      "path": "midi/z3203-progressive-trance-builds-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3203-progressive-trance-builds-contrast/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "7fa85d07d6457d3141365a637ded01b2c33e3f8b8d5a7959b333aadaa6a6124f",
+      "errors": []
+    },
+    {
+      "path": "midi/z3203-progressive-trance-builds-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "eed2e0f13fcfe77e39c39bafa3f50855eecf1f1a368b8d59a6787b037a0d04b0",
+      "errors": []
+    },
+    {
+      "path": "midi/z3203-progressive-trance-builds-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0c54f07029a7905b771101f25984593a92d1b6d08a8c99ee4fc966930cd477a3",
+      "errors": []
+    },
+    {
+      "path": "midi/z3203-progressive-trance-builds-contrast/z3203-progressive-trance-builds-contrast-combined.mid",
+      "bytes": 5985,
+      "sha256": "a1602256bc52f12d57cd1fc172ec4173786ed27839881b5317cb367f8c1838e0",
+      "errors": []
+    },
+    {
+      "path": "midi/z3204-progressive-trance-builds-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "5a21379773875ea29d6ba91fbb55430f78e8f794036f75311515ab3649dfa7be",
+      "errors": []
+    },
+    {
+      "path": "midi/z3204-progressive-trance-builds-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "f58eb3dadf2ab8b0b75222173d5d8fb035f29d3f06b51d937caec5b9bb437926",
+      "errors": []
+    },
+    {
+      "path": "midi/z3204-progressive-trance-builds-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3204-progressive-trance-builds-return/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "6ee331498e0df68166bf211904eecfd4ac9b7fd6311b05b2271c14a781c7fb62",
+      "errors": []
+    },
+    {
+      "path": "midi/z3204-progressive-trance-builds-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "65665d312c89bd4420cfbf72d961ff2da82117e495fff5c008f927ddbbabdafc",
+      "errors": []
+    },
+    {
+      "path": "midi/z3204-progressive-trance-builds-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "38e2b3764793fd124c306ccf4f76256cd7aa421c4d641b3f4cbe0c3ca7c0340c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3204-progressive-trance-builds-return/z3204-progressive-trance-builds-return-combined.mid",
+      "bytes": 5985,
+      "sha256": "7b7051d92bd0399902291d03435c1593cb475373c1deb6d41409a52616f4091b",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

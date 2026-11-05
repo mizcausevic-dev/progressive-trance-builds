@@ -1,0 +1,26 @@
+{
+  "title": "Progressive Trance Builds",
+  "study": "z3201",
+  "bpm": 138,
+  "source_audio": "preview/progressive-trance-builds-simple-synth-preview.mp3",
+  "source_audio_sha256": "dc93e855151f8dd85630b605fe8936bf1e4be76acbddd0e30b4dd31dab0a14ec",
+  "source_midi": "midi/z3201-progressive-trance-builds-opening/z3201-progressive-trance-builds-opening-combined.mid",
+  "source_midi_sha256": "71bb904260aab98be31a65c2eeb3ee2bee6a02b987525f7f07fbfca13ddf5eb1",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "9fc05e2678fd1ec24726eca88a498d3924e07651caf97a8380eec064c7dc96fa",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "cd6fe7601bcaf20b150f9ab54a35f8510757e1c3f5adee0cce5758140941a16d",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "8332e986c55576b0614f99b5889933723ff332e7791092a36b1bcd428fd8f3dd",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
