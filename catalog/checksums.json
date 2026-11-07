@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/progressive-trance-builds-midi.zip",
-      "bytes": 31917,
-      "sha256": "b2fff201a61e8bd8381ce9b022789ebac8565b85dc3150f4120d2e7564c2ec3a"
+      "bytes": 32904,
+      "sha256": "dda46e7113ac80e70b9f3904f80644c547f790be47c27269febbbdd52bdab9bc"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10044,
-      "sha256": "0952e583cb119c437a76d4ff559e1b58c07f9f7b7210ccef84a788517a5090d2"
+      "bytes": 10234,
+      "sha256": "428a5f5306986f0ca829e0b636f6165a4e2f43fb3cc722d335b298359fdcd3bc"
     },
     {
       "path": "midi/z3201-progressive-trance-builds-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "7b7051d92bd0399902291d03435c1593cb475373c1deb6d41409a52616f4091b"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1185,
       "sha256": "5770edfb5577a7b35754627b2b30890d6080b3e01f67c6b75f8690e8e0057907"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4001,
-      "sha256": "27d5b507e7825e5712ea0fc173341751cfeb0e4d9578bc64fdc366927bd66c40"
+      "bytes": 4116,
+      "sha256": "11e8b08483993854b8cd2098b57d265d80cfa9d2b4240a87ea8fea92688a9018"
     },
     {
       "path": "social/instagram/caption.txt",
